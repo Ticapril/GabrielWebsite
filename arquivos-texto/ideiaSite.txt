@@ -1,0 +1,6 @@
+https://coverr.co -- site para pegar os videos
+
+
+(header) - menu, imagem de apresentação(carrosel de imagens ou um video de fundo), botão clicável que redireciona para alguma importante no site
+(body) - 3 sections principais - sobre mim,portfolio(projetos, seus trabalhos),contato(formulário simples)
+(footer) - alguns links, telefone google maps
